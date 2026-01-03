@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Gen AI**
 
-- 👯 I’m looking to collaborate on **MAANG**
+- 👯 I’m looking to collaborate on **Real-Time Projects**
 
 - 💬 Ask me about **DSA | python | Java**
 
