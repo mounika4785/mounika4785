@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Revelli Mounika</h1>
-<h3 align="center">Aspiring Software Engineer | 2nd-Year Undergrad | Exploring Generative AI & Machine Learning | Turning ideas into code</h3>
+<h3 align="center">Computer Science Student | Java Developer | DSA Enthusiast | Full-Stack Developer | Building projects, solving problems, and growing as a Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounika4785&label=Profile%20views&color=0e75b6&style=flat" alt="mounika4785" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mounika4785" alt="mounika4785" /></a> </p>
 
-- 🌱 I’m currently learning **Gen AI**
+- 🌱 Currently focused on mastering Data Structures & Algorithms and Full-Stack Development by solving coding problems, studying core concepts, and developing real-world applications.
 
 - 👯 I’m looking to collaborate on **Real-Time Projects**
 
-- 💬 Ask me about **DSA | python | Java**
+- 💬 Ask me about **DSA | Java | python**
 
 - 📫 How to reach me **mounika4785@gmail.com**
 
